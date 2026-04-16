@@ -2,7 +2,7 @@
 
 Dato un CAP italiano restituisce comune, provincia, regione, coordinate GPS e timezone.
 
-**Live su RapidAPI:** *[](https://rapidapi.com/xDubby/api/cap-italia)*
+**Live su RapidAPI:** *[CAP Italia](https://rapidapi.com/xDubby/api/cap-italia)*
 
 ---
 
